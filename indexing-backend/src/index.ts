@@ -27,11 +27,11 @@ app.get("/status", async (req, res) => {
 
 // Import routes
 import tokenRoutes from './routes/token.routes';
-import webhookRoutes from './routes/webhook.route';
+import tweetRoutes from './routes/tweet.route';
 
 // Use routes
 app.use('/api/token', tokenRoutes);
-app.use('/api/webhook', webhookRoutes);
+app.use('/api/tweet', tweetRoutes);
 
 app.listen(3003, () => {
     console.log("server is running on port 3003");

@@ -21,8 +21,7 @@
     "dotenv": "^16.4.5",
     "esbuild": "^0.23.0",
     "express": "^4.19.2",
-    "pg": "^8.14.1",
-    "prisma-shared": "file:prisma-shared"
+    "prisma-shared": "file:../prisma-shared"
   },
   "devDependencies": {
     "@types/pg": "^8.11.11",
