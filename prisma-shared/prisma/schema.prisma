@@ -20,63 +20,35 @@ model User {
   password            String
   googleId            String?        @unique
   name                String?
-  postgresCredentials Json?
-  subscription        Subscription[]
-  userPostgresDatabase UserPostgresDatabase[]
+  tweet               Tweet[]
   createdAt           DateTime       @default(now())
   updatedAt           DateTime       @updatedAt
 }
 
-model Subscription {
-  id                Int        @id @default(autoincrement())
-  userId            Int
-  user              User       @relation(fields: [userId], references: [id])
-  addressType       AddressType @default(TOKEN)  
-  transactionType   String?
-  address           String?
-  webhookId         String?
-  webhookUrl        String?
-  status            SubscriptionStatus @default(STOPPED)
-  TokenPrice        TokenPrice[]
-  createdAt         DateTime       @default(now())
-  updatedAt         DateTime       @updatedAt
-}
-
-model TokenPrice {
+model TokenDetail {
   id             Int          @id @default(autoincrement())
-  subscriptionId Int
-  Subscription   Subscription @relation(fields: [subscriptionId], references: [id])
-  response       String
+  projectName    String
+  tokenTicker    String
+  walletAddress  String?
+  startDate      DateTime?
+  endDate        DateTime?
+  purpose        String?
+  amountRaised   Decimal      @default(0)
+  teamInfo       String?
   tokenAddress   String?
   price          Decimal?
   createdAt      DateTime     @default(now())
 }
 
-model UserPostgresDatabase {
+model Tweet {
   id                Int          @id @default(autoincrement())
   userId            Int
+  tweet             String
   user              User         @relation(fields: [userId], references: [id])
-  host              String
-  port              Int
-  databaseName      String
-  userName          String
-  password          String
   createdAt         DateTime     @default(now())
-}
-
-enum SubscriptionStatus {
-  PENDING
-  RUNNING
-  STOPPED
-  ERROR
 }
 
 enum AuthType {
   Google
   Github
-}
-
-enum AddressType {
-  TOKEN
-  NFT
 }
