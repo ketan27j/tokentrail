@@ -1,0 +1,82 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "debian-openssl-1.1.x", "debian-openssl-3.0.x", "linux-musl", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                  Int            @id @default(autoincrement())
+  email               String         @unique
+  password            String
+  googleId            String?        @unique
+  name                String?
+  postgresCredentials Json?
+  subscription        Subscription[]
+  userPostgresDatabase UserPostgresDatabase[]
+  createdAt           DateTime       @default(now())
+  updatedAt           DateTime       @updatedAt
+}
+
+model Subscription {
+  id                Int        @id @default(autoincrement())
+  userId            Int
+  user              User       @relation(fields: [userId], references: [id])
+  addressType       AddressType @default(TOKEN)  
+  transactionType   String?
+  address           String?
+  webhookId         String?
+  webhookUrl        String?
+  status            SubscriptionStatus @default(STOPPED)
+  TokenPrice        TokenPrice[]
+  createdAt         DateTime       @default(now())
+  updatedAt         DateTime       @updatedAt
+}
+
+model TokenPrice {
+  id             Int          @id @default(autoincrement())
+  subscriptionId Int
+  Subscription   Subscription @relation(fields: [subscriptionId], references: [id])
+  response       String
+  tokenAddress   String?
+  price          Decimal?
+  createdAt      DateTime     @default(now())
+}
+
+model UserPostgresDatabase {
+  id                Int          @id @default(autoincrement())
+  userId            Int
+  user              User         @relation(fields: [userId], references: [id])
+  host              String
+  port              Int
+  databaseName      String
+  userName          String
+  password          String
+  createdAt         DateTime     @default(now())
+}
+
+enum SubscriptionStatus {
+  PENDING
+  RUNNING
+  STOPPED
+  ERROR
+}
+
+enum AuthType {
+  Google
+  Github
+}
+
+enum AddressType {
+  TOKEN
+  NFT
+}

@@ -1,0 +1,21 @@
+{
+  "name": "prisma-shared",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx prisma generate && tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "prisma": "^6.5.0",
+    "typescript": "^5.8.2"
+  },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  }
+}
