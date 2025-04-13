@@ -1,0 +1,3322 @@
+{
+        "status": "ok",
+        "timeline": [
+            {
+                "type": "tweet",
+                "tweet_id": "1910286647092039976",
+                "screen_name": "ObsoleteSony",
+                "bookmarks": 199,
+                "favorites": 2246,
+                "created_at": "Thu Apr 10 11:00:02 +0000 2025",
+                "text": "Don't skip Ico https://t.co/JvZ1RQCvNp",
+                "lang": "en",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 20,
+                "replies": 33,
+                "conversation_id": "1910286647092039976",
+                "retweets": 207,
+                "views": "44018",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/JvZ1RQCvNp",
+                            "expanded_url": "https://x.com/ObsoleteSony/status/1910286647092039976/photo/1",
+                            "id_str": "1910212215141027840",
+                            "indices": [
+                                15,
+                                38
+                            ],
+                            "media_key": "3_1910212215141027840",
+                            "media_url_https": "https://pbs.twimg.com/media/GoJv45EX0AALM7c.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/JvZ1RQCvNp",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1200,
+                                    "w": 841,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 841,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 477,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1200,
+                                "width": 841,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 841,
+                                        "h": 471
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 841,
+                                        "h": 841
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 841,
+                                        "h": 959
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 600,
+                                        "h": 1200
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 841,
+                                        "h": 1200
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1910212215141027840"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "ObsoleteSony",
+                    "name": "Obsolete Sony",
+                    "description": "Embark on a journey through the obscure world of forgotten, odd, and obsolete Sony devices.\nhttps://t.co/pBgVhb98yK",
+                    "rest_id": "1647428363965935617",
+                    "followers_count": 129611,
+                    "favourites_count": 40515,
+                    "avatar": "https://pbs.twimg.com/profile_images/1828847927948713984/ByMWXBYs_normal.jpg",
+                    "verified": false,
+                    "friends_count": 954,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoJv45EX0AALM7c.jpg",
+                            "id": "1910212215141027840",
+                            "sizes": {
+                                "h": 1200,
+                                "w": 841
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1909951237153300541",
+                "screen_name": "top7ico",
+                "bookmarks": 5,
+                "favorites": 8,
+                "created_at": "Wed Apr 09 12:47:14 +0000 2025",
+                "text": "Top 7 Promising Projects with Anticipated Tokens\n\nWe compiled a list of highly anticipated projects, that should enter the market with a token soon: @soon_svm, @megaeth_labs, @doublezero, @ArciumHQ, @fragmetric, @kernel_dao, and @vultisig https://t.co/cs8hmtEHYd",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 0,
+                "replies": 3,
+                "conversation_id": "1909951237153300541",
+                "retweets": 0,
+                "views": "1770",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/cs8hmtEHYd",
+                            "expanded_url": "https://x.com/top7ico/status/1909951237153300541/photo/1",
+                            "id_str": "1909951229716770816",
+                            "indices": [
+                                239,
+                                262
+                            ],
+                            "media_key": "3_1909951229716770816",
+                            "media_url_https": "https://pbs.twimg.com/media/GoGChimWsAAT2DK.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/cs8hmtEHYd",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1799089203483193344",
+                                            "name": "SOON - Solana Optimistic Network (Mainnet Arc)",
+                                            "screen_name": "soon_svm",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1730321133545922560",
+                                            "name": "MegaETH",
+                                            "screen_name": "megaeth_labs",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1858591374817587203",
+                                            "name": "DoubleZero",
+                                            "screen_name": "doublezero",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1479048649661464581",
+                                            "name": "Arcium ☂️",
+                                            "screen_name": "ArciumHQ",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1786285086926835712",
+                                            "name": "Fragmetric",
+                                            "screen_name": "fragmetric",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1808820827506552832",
+                                            "name": "KernelDAO",
+                                            "screen_name": "kernel_dao",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1707302676202229760",
+                                            "name": "Kelp",
+                                            "screen_name": "KelpDAO",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1775756181916819456",
+                                            "name": "Vultisig (VULT)",
+                                            "screen_name": "vultisig",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "877807935493033984",
+                                            "name": "Binance",
+                                            "screen_name": "binance",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "574032254",
+                                            "name": "Coinbase 🛡️",
+                                            "screen_name": "coinbase",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1404,
+                                            "y": 624,
+                                            "h": 68,
+                                            "w": 68
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 822,
+                                            "y": 365,
+                                            "h": 39,
+                                            "w": 39
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 466,
+                                            "y": 207,
+                                            "h": 22,
+                                            "w": 22
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 1404,
+                                            "y": 624,
+                                            "h": 68,
+                                            "w": 68
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1622,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 950,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 539,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1622,
+                                "width": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 1147
+                                    },
+                                    {
+                                        "x": 426,
+                                        "y": 0,
+                                        "w": 1622,
+                                        "h": 1622
+                                    },
+                                    {
+                                        "x": 569,
+                                        "y": 0,
+                                        "w": 1423,
+                                        "h": 1622
+                                    },
+                                    {
+                                        "x": 875,
+                                        "y": 0,
+                                        "w": 811,
+                                        "h": 1622
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 1622
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1909951229716770816"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1799089203483193344",
+                            "name": "SOON - Solana Optimistic Network (Mainnet Arc)",
+                            "screen_name": "soon_svm",
+                            "indices": [
+                                149,
+                                158
+                            ]
+                        },
+                        {
+                            "id_str": "1730321133545922560",
+                            "name": "MegaETH",
+                            "screen_name": "megaeth_labs",
+                            "indices": [
+                                160,
+                                173
+                            ]
+                        },
+                        {
+                            "id_str": "1858591374817587203",
+                            "name": "DoubleZero",
+                            "screen_name": "doublezero",
+                            "indices": [
+                                175,
+                                186
+                            ]
+                        },
+                        {
+                            "id_str": "1479048649661464581",
+                            "name": "Arcium ☂️",
+                            "screen_name": "ArciumHQ",
+                            "indices": [
+                                188,
+                                197
+                            ]
+                        },
+                        {
+                            "id_str": "1786285086926835712",
+                            "name": "Fragmetric",
+                            "screen_name": "fragmetric",
+                            "indices": [
+                                199,
+                                210
+                            ]
+                        },
+                        {
+                            "id_str": "1808820827506552832",
+                            "name": "KernelDAO",
+                            "screen_name": "kernel_dao",
+                            "indices": [
+                                212,
+                                223
+                            ]
+                        },
+                        {
+                            "id_str": "1775756181916819456",
+                            "name": "Vultisig (VULT)",
+                            "screen_name": "vultisig",
+                            "indices": [
+                                229,
+                                238
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "top7ico",
+                    "name": "TOP 7 ICO | Crypto News & Analytics",
+                    "description": "Your Hub for Top #CryptoNews, #DeFi, #MEME, #AI, #RWA, #GameFi Trends & Analytics\n\nProudly rooted in Ukraine 🇺🇦\n\n📩 Contact: https://t.co/NJVYGHjFBN",
+                    "rest_id": "945716524836409345",
+                    "followers_count": 145118,
+                    "favourites_count": 3941,
+                    "avatar": "https://pbs.twimg.com/profile_images/1882390850925113345/0kZTE7qD_normal.jpg",
+                    "verified": false,
+                    "friends_count": 1539,
+                    "location": "TOP 7 ICO Socials ▶️"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoGChimWsAAT2DK.jpg",
+                            "id": "1909951229716770816",
+                            "sizes": {
+                                "h": 950,
+                                "w": 1200
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1911094676746121498",
+                "screen_name": "icospeaks",
+                "bookmarks": 0,
+                "favorites": 5,
+                "created_at": "Sat Apr 12 16:30:52 +0000 2025",
+                "text": "If you think current market is sucks - then you are newbie and can’t manage your #crypto trading portfolio.🪙\n\nWhile BTC #dropping 10% some #Altcoins dropping 50% 🔽\n\nWhile #BTC #pumping 10%, same altcoins pumping 800%.🔼\nFind out potential alt coin #buy and #hold it.\nAnd you still think it’s difficult?\nAlright go work at 🐈👎MacDonalds. Next please…\n\n🪨My channel Musk Emperor\nhttps://t.co/zfgrN2LgWS\n\n🧐My ID Elon Musk\nhttps://t.co/2CftpRa895",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 0,
+                "replies": 5,
+                "conversation_id": "1911094676746121498",
+                "retweets": 3,
+                "views": "57",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                81,
+                                88
+                            ],
+                            "text": "crypto"
+                        },
+                        {
+                            "indices": [
+                                120,
+                                129
+                            ],
+                            "text": "dropping"
+                        },
+                        {
+                            "indices": [
+                                139,
+                                148
+                            ],
+                            "text": "Altcoins"
+                        },
+                        {
+                            "indices": [
+                                171,
+                                175
+                            ],
+                            "text": "BTC"
+                        },
+                        {
+                            "indices": [
+                                176,
+                                184
+                            ],
+                            "text": "pumping"
+                        },
+                        {
+                            "indices": [
+                                247,
+                                251
+                            ],
+                            "text": "buy"
+                        },
+                        {
+                            "indices": [
+                                256,
+                                261
+                            ],
+                            "text": "hold"
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [
+                        {
+                            "display_url": "cutt.ly/wrfj6Eif",
+                            "expanded_url": "https://cutt.ly/wrfj6Eif",
+                            "url": "https://t.co/zfgrN2LgWS",
+                            "indices": [
+                                374,
+                                397
+                            ]
+                        },
+                        {
+                            "display_url": "cutt.ly/grfj6NPB",
+                            "expanded_url": "https://cutt.ly/grfj6NPB",
+                            "url": "https://t.co/2CftpRa895",
+                            "indices": [
+                                416,
+                                439
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "icospeaks",
+                    "name": "ICO SPEAKS",
+                    "description": "#ICOspeaks connect people via Social Media and Private Networking meetups. #BTC #AMA #Crypto",
+                    "rest_id": "801422991322136576",
+                    "followers_count": 5758,
+                    "favourites_count": 1194,
+                    "avatar": "https://pbs.twimg.com/profile_images/1332003327270408193/D37NPMRc_normal.jpg",
+                    "verified": false,
+                    "friends_count": 10,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoWSXWEWsAA4BX1.jpg",
+                            "id": "1911094546647134208",
+                            "sizes": {
+                                "h": 376,
+                                "w": 470
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1909348790504685603",
+                "screen_name": "TezosTexas",
+                "bookmarks": 1,
+                "favorites": 15,
+                "created_at": "Mon Apr 07 20:53:20 +0000 2025",
+                "text": "True. Here it is with staking included 🤣🤣🤣 tezos $XTZ . If you have invested 10000 USD at ICO time https://t.co/EBNptBc4o6",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 0,
+                "replies": 6,
+                "conversation_id": "1909348790504685603",
+                "retweets": 10,
+                "views": "2128",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/EBNptBc4o6",
+                            "expanded_url": "https://x.com/TezosTexas/status/1909348790504685603/photo/1",
+                            "id_str": "1909348582718582784",
+                            "indices": [
+                                99,
+                                122
+                            ],
+                            "media_key": "3_1909348582718582784",
+                            "media_url_https": "https://pbs.twimg.com/media/Gn9ea3lWMAAGVak.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/EBNptBc4o6",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 336,
+                                            "y": 1858,
+                                            "h": 120,
+                                            "w": 120
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 196,
+                                            "y": 1089,
+                                            "h": 70,
+                                            "w": 70
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 111,
+                                            "y": 617,
+                                            "h": 39,
+                                            "w": 39
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 336,
+                                            "y": 1858,
+                                            "h": 120,
+                                            "w": 120
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 945,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 554,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 314,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 2048,
+                                "width": 945,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 1013,
+                                        "w": 945,
+                                        "h": 529
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 805,
+                                        "w": 945,
+                                        "h": 945
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 739,
+                                        "w": 945,
+                                        "h": 1077
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 158,
+                                        "w": 945,
+                                        "h": 1890
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 945,
+                                        "h": 2048
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1909348582718582784"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [
+                        {
+                            "indices": [
+                                49,
+                                53
+                            ],
+                            "text": "XTZ"
+                        }
+                    ],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "TezosTexas",
+                    "name": "Em 🏴‍☠️Tezos TX 🇺🇸",
+                    "description": "Love Nature, Sports and believe that Paradise is on earth, nowhere else.! Crypto enthusiast. Email : tezostexas@mailchain",
+                    "rest_id": "51362228",
+                    "followers_count": 20932,
+                    "favourites_count": 63224,
+                    "avatar": "https://pbs.twimg.com/profile_images/1865733909138358272/pZ4FiSie_normal.jpg",
+                    "verified": false,
+                    "friends_count": 2682,
+                    "location": "Austin, TX"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/Gn9ea3lWMAAGVak.jpg",
+                            "id": "1909348582718582784",
+                            "sizes": {
+                                "h": 1200,
+                                "w": 554
+                            }
+                        }
+                    ]
+                },
+                "quoted": {
+                    "tweet_id": "1909298628491120911",
+                    "bookmarks": 0,
+                    "created_at": "Mon Apr 07 17:34:00 +0000 2025",
+                    "favorites": 4,
+                    "text": "@TezosTexas That’s an absurd way to look at it. Setting aside the fact that you’re pivoting to a much longer timeframe. If you’re using ICO pricing, you have to include that #Tezos supply is up 50%+, benefiting delegators/stakers to nearly 2X their ICO holdings. These are not small details!",
+                    "lang": "en",
+                    "views": "2332",
+                    "quotes": 1,
+                    "replies": 3,
+                    "retweets": 0,
+                    "conversation_id": "1909273557013504220",
+                    "author": {
+                        "rest_id": "20817964",
+                        "name": "Kevin Mehrabi (kevin.tez)",
+                        "screen_name": "KMehrabi",
+                        "avatar": "https://pbs.twimg.com/profile_images/1658286614622109696/h5fkFXVN_normal.jpg",
+                        "blue_verified": true
+                    },
+                    "media": []
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910229240827843028",
+                "screen_name": "PiNetwork_ID",
+                "bookmarks": 5,
+                "favorites": 242,
+                "created_at": "Thu Apr 10 07:11:56 +0000 2025",
+                "text": "#PiNetwork\n🔸200K+ active nodes\n🔸1M+ CPUs securing the network\n🔸Built on eco-friendly Stellar Consensus♻️\n🔸50M+ users before OM\n🔸No VC hype. No Billion$ ICO.\n\nJust millions of users building something real.\n$Pi is a movement—Accessible, Scalable, Decentralized, Mobile-first💜 https://t.co/eAWxKx4210",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "quotes": 1,
+                "replies": 15,
+                "conversation_id": "1910229240827843028",
+                "retweets": 44,
+                "views": "4060",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                0,
+                                10
+                            ],
+                            "text": "PiNetwork"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/eAWxKx4210",
+                            "expanded_url": "https://x.com/PiNetwork_ID/status/1910229240827843028/photo/1",
+                            "id_str": "1910229232053280768",
+                            "indices": [
+                                275,
+                                298
+                            ],
+                            "media_key": "3_1910229232053280768",
+                            "media_url_https": "https://pbs.twimg.com/media/GoJ_XaAaYAAGPUR.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/eAWxKx4210",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1126232134065147904",
+                                            "name": "Pi Network",
+                                            "screen_name": "PiCoreTeam",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "16536129",
+                                            "name": "Nicolas Kokkalis",
+                                            "screen_name": "nkokkalis",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1126232134065147904",
+                                            "name": "Pi Network",
+                                            "screen_name": "PiCoreTeam",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "16536129",
+                                            "name": "Nicolas Kokkalis",
+                                            "screen_name": "nkokkalis",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 704,
+                                            "y": 49,
+                                            "h": 84,
+                                            "w": 84
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 704,
+                                            "y": 49,
+                                            "h": 84,
+                                            "w": 84
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 467,
+                                            "y": 32,
+                                            "h": 55,
+                                            "w": 55
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 704,
+                                            "y": 49,
+                                            "h": 84,
+                                            "w": 84
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1024,
+                                    "w": 1024,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1024,
+                                    "w": 1024,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1024,
+                                "width": 1024,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 251,
+                                        "w": 1024,
+                                        "h": 573
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 1024
+                                    },
+                                    {
+                                        "x": 126,
+                                        "y": 0,
+                                        "w": 898,
+                                        "h": 1024
+                                    },
+                                    {
+                                        "x": 512,
+                                        "y": 0,
+                                        "w": 512,
+                                        "h": 1024
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 1024
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1910229232053280768"
+                                }
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/eAWxKx4210",
+                            "expanded_url": "https://x.com/PiNetwork_ID/status/1910229240827843028/photo/1",
+                            "id_str": "1910229232422469632",
+                            "indices": [
+                                275,
+                                298
+                            ],
+                            "media_key": "3_1910229232422469632",
+                            "media_url_https": "https://pbs.twimg.com/media/GoJ_XbYbwAAMA25.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/eAWxKx4210",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1126232134065147904",
+                                            "name": "Pi Network",
+                                            "screen_name": "PiCoreTeam",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "16536129",
+                                            "name": "Nicolas Kokkalis",
+                                            "screen_name": "nkokkalis",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1126232134065147904",
+                                            "name": "Pi Network",
+                                            "screen_name": "PiCoreTeam",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "16536129",
+                                            "name": "Nicolas Kokkalis",
+                                            "screen_name": "nkokkalis",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1093,
+                                            "y": 696,
+                                            "h": 52,
+                                            "w": 52
+                                        },
+                                        {
+                                            "x": 213,
+                                            "y": 715,
+                                            "h": 58,
+                                            "w": 58
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 853,
+                                            "y": 543,
+                                            "h": 40,
+                                            "w": 40
+                                        },
+                                        {
+                                            "x": 166,
+                                            "y": 558,
+                                            "h": 45,
+                                            "w": 45
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 483,
+                                            "y": 308,
+                                            "h": 23,
+                                            "w": 23
+                                        },
+                                        {
+                                            "x": 94,
+                                            "y": 316,
+                                            "h": 25,
+                                            "w": 25
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 1093,
+                                            "y": 696,
+                                            "h": 52,
+                                            "w": 52
+                                        },
+                                        {
+                                            "x": 213,
+                                            "y": 715,
+                                            "h": 58,
+                                            "w": 58
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1024,
+                                    "w": 1536,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 800,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 453,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1024,
+                                "width": 1536,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 164,
+                                        "w": 1536,
+                                        "h": 860
+                                    },
+                                    {
+                                        "x": 256,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 1024
+                                    },
+                                    {
+                                        "x": 319,
+                                        "y": 0,
+                                        "w": 898,
+                                        "h": 1024
+                                    },
+                                    {
+                                        "x": 512,
+                                        "y": 0,
+                                        "w": 512,
+                                        "h": 1024
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 1024
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1910229232422469632"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [
+                        {
+                            "indices": [
+                                206,
+                                209
+                            ],
+                            "text": "Pi"
+                        }
+                    ],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "PiNetwork_ID",
+                    "name": "PiNetwork_id 𝝅",
+                    "description": "🇮🇩 𝕏 𝝅\n#PiNetwork - the #PiGCV Activist \n#DigitalArtist #NFT  \n\nInvitation code: rickrockRF",
+                    "rest_id": "1466271949168865282",
+                    "followers_count": 2953,
+                    "favourites_count": 11612,
+                    "avatar": "https://pbs.twimg.com/profile_images/1879185655831670784/CpGOZ4i1_normal.jpg",
+                    "verified": false,
+                    "friends_count": 2722,
+                    "location": "Indonesia"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoJ_XaAaYAAGPUR.jpg",
+                            "id": "1910229232053280768",
+                            "sizes": {
+                                "h": 1024,
+                                "w": 1024
+                            }
+                        },
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoJ_XbYbwAAMA25.jpg",
+                            "id": "1910229232422469632",
+                            "sizes": {
+                                "h": 800,
+                                "w": 1200
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1909214412671504473",
+                "screen_name": "AntonProfiT",
+                "bookmarks": 3,
+                "favorites": 29,
+                "created_at": "Mon Apr 07 11:59:22 +0000 2025",
+                "text": "#Seismic #L1 - farming #airdrop for #testnet\n\nThe @SeismicSys is an L1 blockchain for tokenization, payments, RWAs, and other innovations.\n\n💰 Project has raised $7M from @a16z, @polychain, @1kxnetwork and others https://t.co/iNhXRAs3K0\n\n- Execution time: ~5 minutes\n\n- Finance cost: $0\n\n- Deadline: TBA\n\n✅ What we do:\n\n1️⃣ Take test $ETH in the faucet https://t.co/llDQXg26Hu (screen https://t.co/gUALmIiMX5)\n\n2️⃣ Connect wallet at https://t.co/GiHYxc7rP8 (screen https://t.co/qjeTfLwkyJ)\n\n3️⃣ Deploy the contract via “Deploy” (screenshot https://t.co/rHoQD7395B).\n\n✳️ You can deploy in other networks as well: @monad_xyz, @NexusNetwork, @MegaETH_\n\n4️⃣ Active in Discord https://t.co/hrYuY0dH2Z\n\nTip: add contract rollout to your daily tasks. \n\nL1 projects always give out drops to early users during TGE.\n\nStay tuned to my channels for updates:\n\n- main https://t.co/TSqFXcNL1G\n\n- airdrop https://t.co/PvicHS4mAI\n\n- news https://t.co/cvfTZgCZu7 ✊\n\nI hope my tweet was helpful to you.\n\nFollow @AntonProfiT to see more!\n\nGet Likes/Retweets by promoting content.",
+                "lang": "en",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 0,
+                "replies": 2,
+                "conversation_id": "1909214412671504473",
+                "retweets": 4,
+                "views": "1489",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                0,
+                                8
+                            ],
+                            "text": "Seismic"
+                        },
+                        {
+                            "indices": [
+                                9,
+                                12
+                            ],
+                            "text": "L1"
+                        },
+                        {
+                            "indices": [
+                                23,
+                                31
+                            ],
+                            "text": "airdrop"
+                        },
+                        {
+                            "indices": [
+                                36,
+                                44
+                            ],
+                            "text": "testnet"
+                        }
+                    ],
+                    "symbols": [
+                        {
+                            "indices": [
+                                333,
+                                337
+                            ],
+                            "text": "ETH"
+                        }
+                    ],
+                    "timestamps": [],
+                    "urls": [
+                        {
+                            "display_url": "cryptorank.io/ru/ico/seismic…",
+                            "expanded_url": "https://cryptorank.io/ru/ico/seismicsys",
+                            "url": "https://t.co/iNhXRAs3K0",
+                            "indices": [
+                                212,
+                                235
+                            ]
+                        },
+                        {
+                            "display_url": "faucet-2.seismicdev.net",
+                            "expanded_url": "https://faucet-2.seismicdev.net/",
+                            "url": "https://t.co/llDQXg26Hu",
+                            "indices": [
+                                352,
+                                375
+                            ]
+                        },
+                        {
+                            "display_url": "ibb.co/C5kPdXcn",
+                            "expanded_url": "https://ibb.co/C5kPdXcn",
+                            "url": "https://t.co/gUALmIiMX5",
+                            "indices": [
+                                384,
+                                407
+                            ]
+                        },
+                        {
+                            "display_url": "contracts.mintair.xyz",
+                            "expanded_url": "https://contracts.mintair.xyz/",
+                            "url": "https://t.co/GiHYxc7rP8",
+                            "indices": [
+                                432,
+                                455
+                            ]
+                        },
+                        {
+                            "display_url": "ibb.co/MxzPvshY",
+                            "expanded_url": "https://ibb.co/MxzPvshY",
+                            "url": "https://t.co/qjeTfLwkyJ",
+                            "indices": [
+                                464,
+                                487
+                            ]
+                        },
+                        {
+                            "display_url": "ibb.co/HLXL7rkk",
+                            "expanded_url": "https://ibb.co/HLXL7rkk",
+                            "url": "https://t.co/rHoQD7395B",
+                            "indices": [
+                                539,
+                                562
+                            ]
+                        },
+                        {
+                            "display_url": "discord.com/invite/seismic",
+                            "expanded_url": "https://discord.com/invite/seismic",
+                            "url": "https://t.co/hrYuY0dH2Z",
+                            "indices": [
+                                671,
+                                694
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/ProfiT_Mafia",
+                            "expanded_url": "https://t.me/ProfiT_Mafia",
+                            "url": "https://t.co/TSqFXcNL1G",
+                            "indices": [
+                                854,
+                                877
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/Profit_Drive",
+                            "expanded_url": "https://t.me/Profit_Drive",
+                            "url": "https://t.co/PvicHS4mAI",
+                            "indices": [
+                                889,
+                                912
+                            ]
+                        },
+                        {
+                            "display_url": "t.me/profitcryptone…",
+                            "expanded_url": "https://t.me/profitcryptonews",
+                            "url": "https://t.co/cvfTZgCZu7",
+                            "indices": [
+                                921,
+                                944
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id_str": "1719012215024410624",
+                            "name": "Seismic",
+                            "screen_name": "SeismicSys",
+                            "indices": [
+                                50,
+                                61
+                            ]
+                        },
+                        {
+                            "id_str": "64844802",
+                            "name": "a16z",
+                            "screen_name": "a16z",
+                            "indices": [
+                                170,
+                                175
+                            ]
+                        },
+                        {
+                            "id_str": "246158437",
+                            "name": "Polychain",
+                            "screen_name": "polychain",
+                            "indices": [
+                                177,
+                                187
+                            ]
+                        },
+                        {
+                            "id_str": "978008453225496576",
+                            "name": "1kx",
+                            "screen_name": "1kxnetwork",
+                            "indices": [
+                                189,
+                                200
+                            ]
+                        },
+                        {
+                            "id_str": "1342961741718810632",
+                            "name": "Monad ⨀",
+                            "screen_name": "monad_xyz",
+                            "indices": [
+                                611,
+                                621
+                            ]
+                        },
+                        {
+                            "id_str": "28884743",
+                            "name": "Nexus Network",
+                            "screen_name": "NexusNetwork",
+                            "indices": [
+                                623,
+                                636
+                            ]
+                        },
+                        {
+                            "id_str": "1681925553476042753",
+                            "name": "MEGA ETH BSC",
+                            "screen_name": "MegaETH_",
+                            "indices": [
+                                638,
+                                647
+                            ]
+                        },
+                        {
+                            "id_str": "2934074005",
+                            "name": "𝓐𝓷𝓽𝓸𝓷 𝓟𝓻𝓸𝓯𝓲𝓽",
+                            "screen_name": "AntonProfiT",
+                            "indices": [
+                                992,
+                                1004
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "AntonProfiT",
+                    "name": "𝓐𝓷𝓽𝓸𝓷 𝓟𝓻𝓸𝓯𝓲𝓽",
+                    "description": "Founder of the cryptocurrency community.\nYoutube - https://t.co/8boiKvcnF4\nTelegram channel - https://t.co/dpoWmkxjWP",
+                    "rest_id": "2934074005",
+                    "followers_count": 13636,
+                    "favourites_count": 889,
+                    "avatar": "https://pbs.twimg.com/profile_images/1349675768809484288/WrFBe-LG_normal.jpg",
+                    "verified": false,
+                    "friends_count": 436,
+                    "location": "Youtube"
+                },
+                "media": {
+                    "video": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1909214315967606784/pu/img/Q11Mn8mEjwxEpW_l.jpg",
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1909214315967606784/pu/pl/FVldzRxytEMn0Bqu.m3u8?tag=12&v=8d0"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1909214315967606784/pu/vid/avc1/480x270/un95ZH9T_Rj3HT8C.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1909214315967606784/pu/vid/avc1/640x360/YDMBvhV0V0LZILDV.mp4?tag=12"
+                                }
+                            ],
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration": 37056,
+                            "original_info": {
+                                "height": 360,
+                                "width": 640,
+                                "focus_rects": []
+                            },
+                            "id": "1909214315967606784"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1911345891891621970",
+                "screen_name": "Rocky_Bitcoin",
+                "bookmarks": 32,
+                "favorites": 35,
+                "created_at": "Sun Apr 13 09:09:06 +0000 2025",
+                "text": "行情无聊，试试POW挖矿，我的第一桶金来自于ICO，来的快，去的也快。稳定的第二桶金，来自于 #ETH 挖矿！\n\n今天闲来无事，试了一下 @EclipseFND 上第一个ePOW挖矿项目 #BITZ，目前价格56美金。\n-最大供应量为5m\n-无预挖 + 零团队/内部分配\n-可以使用 Solana CLI 进行挖矿\n我使用的是一台满血64G Mac Mini，测试一下一天能挖多少。🧐\n教程链接：https://t.co/cmHStFZsZ1\n跨链桥：https://t.co/Vp4ZLjrR8m",
+                "lang": "zh",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 1,
+                "replies": 14,
+                "conversation_id": "1911345891891621970",
+                "retweets": 9,
+                "views": "17782",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                47,
+                                51
+                            ],
+                            "text": "ETH"
+                        },
+                        {
+                            "indices": [
+                                94,
+                                99
+                            ],
+                            "text": "BITZ"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "github.com/aramzcrypto/bi…",
+                            "expanded_url": "https://github.com/aramzcrypto/bitz-mining",
+                            "url": "https://t.co/cmHStFZsZ1",
+                            "indices": [
+                                198,
+                                221
+                            ]
+                        },
+                        {
+                            "display_url": "gas.zip",
+                            "expanded_url": "https://www.gas.zip/",
+                            "url": "https://t.co/Vp4ZLjrR8m",
+                            "indices": [
+                                226,
+                                249
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id_str": "1512166664770670598",
+                            "name": "Eclipse (🐮,🌑)",
+                            "screen_name": "EclipseFND",
+                            "indices": [
+                                69,
+                                80
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "Rocky_Bitcoin",
+                    "name": "Rocky",
+                    "description": "Long term investor #BTC #TAO #SOL| MeMe Professional Data Player | Crypto since 2017 | Not financial advice, DYOR🙏聪明钱狙击,我用GMGN:https://t.co/nThAiF4kz3",
+                    "rest_id": "1003908754813935621",
+                    "followers_count": 114115,
+                    "favourites_count": 3029,
+                    "avatar": "https://pbs.twimg.com/profile_images/1549242558098046976/bU2ZeoEU_normal.jpg",
+                    "verified": false,
+                    "friends_count": 2588,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoZ1fFjXYAE3nqV.jpg",
+                            "id": "1911344268792258561",
+                            "sizes": {
+                                "h": 604,
+                                "w": 1200
+                            }
+                        },
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoZ1h3WWwAA050d.jpg",
+                            "id": "1911344316519202816",
+                            "sizes": {
+                                "h": 1200,
+                                "w": 913
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1911082795327492368",
+                "screen_name": "ICO_999",
+                "bookmarks": 60,
+                "favorites": 1005,
+                "created_at": "Sat Apr 12 15:43:39 +0000 2025",
+                "text": "タキオン誕生日おめでとう🎂🎊🎉💕\n #アグネスタキオン生誕祭2025 https://t.co/NwV4qGQWpQ",
+                "lang": "ja",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 9,
+                "replies": 6,
+                "conversation_id": "1911082795327492368",
+                "retweets": 175,
+                "views": "22336",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                18,
+                                34
+                            ],
+                            "text": "アグネスタキオン生誕祭2025"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/NwV4qGQWpQ",
+                            "expanded_url": "https://x.com/ICO_999/status/1911082795327492368/photo/1",
+                            "id_str": "1911082770656378880",
+                            "indices": [
+                                35,
+                                58
+                            ],
+                            "media_key": "3_1911082770656378880",
+                            "media_url_https": "https://pbs.twimg.com/media/GoWHp5FXwAATlnC.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/NwV4qGQWpQ",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "563765135",
+                                            "name": "波布@4/26ニコ超",
+                                            "screen_name": "habu5121",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 1366,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 800,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 453,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 2869,
+                                "width": 1913,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 540,
+                                        "w": 1913,
+                                        "h": 1071
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 119,
+                                        "w": 1913,
+                                        "h": 1913
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1913,
+                                        "h": 2181
+                                    },
+                                    {
+                                        "x": 215,
+                                        "y": 0,
+                                        "w": 1435,
+                                        "h": 2869
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1913,
+                                        "h": 2869
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1911082770656378880"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "ICO_999",
+                    "name": "ICO🐣⚡️@4/20 ReFROG",
+                    "description": "イコ… 無言フォロー歓迎/「コスプレでそこまでやるか！？」シリーズが好評中/ 仕事、撮影依頼以外のDM返信できません/無許可掲載✖︎ ファンネ＆ファンマ→イコぴよ🐣⚡️/Fantia→https://t.co/Dqx8Dp5TPW BOOTH→ https://t.co/kQJeTvoJ1U",
+                    "rest_id": "1581537283207237633",
+                    "followers_count": 21097,
+                    "favourites_count": 52623,
+                    "avatar": "https://pbs.twimg.com/profile_images/1879047412368699392/9yHLP25k_normal.jpg",
+                    "verified": false,
+                    "friends_count": 455,
+                    "location": "都内"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoWHp5FXwAATlnC.jpg",
+                            "id": "1911082770656378880",
+                            "sizes": {
+                                "h": 1200,
+                                "w": 800
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1911087029053428077",
+                "screen_name": "LunarPumpFun",
+                "bookmarks": 3,
+                "favorites": 28,
+                "created_at": "Sat Apr 12 16:00:28 +0000 2025",
+                "text": "Lets get fair launching !!\n\nSpread the word to all @binance @base & @Infinaeon Devs\n\nGet 50% of the bonding fee returned when you bond\n\nV2 ICO options are going to change the game by ensuring a fair launch for you and your communities and its just around the corner.\n\nAll the details about this new feature were broken down on @Infinaeon Friday show, Link below 👇",
+                "lang": "en",
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "quotes": 0,
+                "replies": 7,
+                "conversation_id": "1911087029053428077",
+                "retweets": 16,
+                "views": "285",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "877807935493033984",
+                            "name": "Binance",
+                            "screen_name": "binance",
+                            "indices": [
+                                51,
+                                59
+                            ]
+                        },
+                        {
+                            "id_str": "1628067904083181570",
+                            "name": "Base",
+                            "screen_name": "base",
+                            "indices": [
+                                60,
+                                65
+                            ]
+                        },
+                        {
+                            "id_str": "1734402721757757441",
+                            "name": "Infinaeon Blockchain",
+                            "screen_name": "Infinaeon",
+                            "indices": [
+                                68,
+                                78
+                            ]
+                        },
+                        {
+                            "id_str": "1734402721757757441",
+                            "name": "Infinaeon Blockchain",
+                            "screen_name": "Infinaeon",
+                            "indices": [
+                                327,
+                                337
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "LunarPumpFun",
+                    "name": "LunarPumpFun",
+                    "description": "Dream big with Lunar Pump, the fun, quick and easy way to launch your tokens on chain. https://t.co/ORQItXBcwi",
+                    "rest_id": "1603127889523875840",
+                    "followers_count": 931,
+                    "favourites_count": 850,
+                    "avatar": "https://pbs.twimg.com/profile_images/1870099874433118208/ys-_0wC3_normal.jpg",
+                    "verified": false,
+                    "friends_count": 9,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoWLhhcXwAA4ryq.jpg",
+                            "id": "1911087024917954560",
+                            "sizes": {
+                                "h": 1024,
+                                "w": 1024
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910748319422328849",
+                "screen_name": "KingWilliamDefi",
+                "bookmarks": 23,
+                "favorites": 44,
+                "created_at": "Fri Apr 11 17:34:33 +0000 2025",
+                "text": "Guide on @FogoChain activities ($13.5M)\n\nFogo is an SVM-based Layer 1 blockchain that manages and runs on a Firedancer client.\n\nThe team has raised $13.5M in investment from CMS Holdings and Distributed Global, as well as through an ICO.\n\nThe project is currently running a farming campaign of local Flames points, for which a drop is planned in the future.\n\n➣ How to farm points?\n\n• Staking PYTH tokens via https://t.co/mgL4IXBiWQ\n• Trading and providing liquidity via https://t.co/zjCGtsfqo3\n• Farming roles in Discord- https://t.co/SOGKlwQkVR\n• Content creation and activity on X (Twitter)\n\n----------\n\nCONCLUSION\n\nThe leaderboard is updated every week, and there aren't many active members yet. Also, the team has already hinted at the drop, so let's figure it out and farm points",
+                "lang": "en",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 0,
+                "replies": 12,
+                "conversation_id": "1910748319422328849",
+                "retweets": 17,
+                "views": "2231",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "staking.pyth.network",
+                            "expanded_url": "http://staking.pyth.network",
+                            "url": "https://t.co/mgL4IXBiWQ",
+                            "indices": [
+                                408,
+                                431
+                            ]
+                        },
+                        {
+                            "display_url": "ambient.finance",
+                            "expanded_url": "http://ambient.finance",
+                            "url": "https://t.co/zjCGtsfqo3",
+                            "indices": [
+                                470,
+                                493
+                            ]
+                        },
+                        {
+                            "display_url": "discord.com/invite/FogoCha…",
+                            "expanded_url": "http://discord.com/invite/FogoChain",
+                            "url": "https://t.co/SOGKlwQkVR",
+                            "indices": [
+                                522,
+                                545
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id_str": "1780162170333831168",
+                            "name": "Fogo",
+                            "screen_name": "FogoChain",
+                            "indices": [
+                                9,
+                                19
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "KingWilliamDefi",
+                    "name": "KingWilliam",
+                    "description": "In Web3 Since 2017'.\nEarly in new Trends | Data Maxi | DeFi Research.\nAmbassador: @nansen_ai, @ParticleNtwrk",
+                    "rest_id": "1671275317938274305",
+                    "followers_count": 69105,
+                    "favourites_count": 15197,
+                    "avatar": "https://pbs.twimg.com/profile_images/1771611720957501440/YVPpd5rM_normal.jpg",
+                    "verified": false,
+                    "friends_count": 719,
+                    "location": "Сlosing alpha soon →"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoRXa8IXUAAlT1Y.jpg",
+                            "id": "1910748262241357824",
+                            "sizes": {
+                                "h": 683,
+                                "w": 1200
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910632130138534376",
+                "screen_name": "ICO_999",
+                "bookmarks": 50,
+                "favorites": 601,
+                "created_at": "Fri Apr 11 09:52:52 +0000 2025",
+                "text": "再放送中ー🪽💕\n#PSG #PaSwG https://t.co/bDpH5djRCQ",
+                "lang": "ja",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 0,
+                "replies": 2,
+                "conversation_id": "1910632130138534376",
+                "retweets": 51,
+                "views": "7229",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                8,
+                                12
+                            ],
+                            "text": "PSG"
+                        },
+                        {
+                            "indices": [
+                                13,
+                                19
+                            ],
+                            "text": "PaSwG"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/bDpH5djRCQ",
+                            "expanded_url": "https://x.com/ICO_999/status/1910632130138534376/video/1",
+                            "id_str": "1910632074186547202",
+                            "indices": [
+                                20,
+                                43
+                            ],
+                            "media_key": "13_1910632074186547202",
+                            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1910632074186547202/img/_F4rTdSPTxqFkGzy.jpg",
+                            "type": "video",
+                            "url": "https://t.co/bDpH5djRCQ",
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1000,
+                                    "w": 750,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1000,
+                                    "w": 750,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 510,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1000,
+                                "width": 750,
+                                "focus_rects": []
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    3,
+                                    4
+                                ],
+                                "duration_millis": 2233,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1910632074186547202/pl/leOWhyEn5lwT_zQo.m3u8?tag=16"
+                                    },
+                                    {
+                                        "bitrate": 632000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1910632074186547202/vid/avc1/320x426/6jGvbnLOF0Q5D7km.mp4?tag=16"
+                                    },
+                                    {
+                                        "bitrate": 950000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1910632074186547202/vid/avc1/480x640/Nw7wmgRfGBT92vRL.mp4?tag=16"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1910632074186547202/vid/avc1/720x960/kHzIhhyhjpsbBg0V.mp4?tag=16"
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "13_1910632074186547202"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "ICO_999",
+                    "name": "ICO🐣⚡️@4/20 ReFROG",
+                    "description": "イコ… 無言フォロー歓迎/「コスプレでそこまでやるか！？」シリーズが好評中/ 仕事、撮影依頼以外のDM返信できません/無許可掲載✖︎ ファンネ＆ファンマ→イコぴよ🐣⚡️/Fantia→https://t.co/Dqx8Dp5TPW BOOTH→ https://t.co/kQJeTvoJ1U",
+                    "rest_id": "1581537283207237633",
+                    "followers_count": 21097,
+                    "favourites_count": 52623,
+                    "avatar": "https://pbs.twimg.com/profile_images/1879047412368699392/9yHLP25k_normal.jpg",
+                    "verified": false,
+                    "friends_count": 455,
+                    "location": "都内"
+                },
+                "media": {
+                    "video": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1910632074186547202/img/_F4rTdSPTxqFkGzy.jpg",
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1910632074186547202/pl/leOWhyEn5lwT_zQo.m3u8?tag=16"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1910632074186547202/vid/avc1/320x426/6jGvbnLOF0Q5D7km.mp4?tag=16"
+                                },
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1910632074186547202/vid/avc1/480x640/Nw7wmgRfGBT92vRL.mp4?tag=16"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1910632074186547202/vid/avc1/720x960/kHzIhhyhjpsbBg0V.mp4?tag=16"
+                                }
+                            ],
+                            "aspect_ratio": [
+                                3,
+                                4
+                            ],
+                            "duration": 2233,
+                            "original_info": {
+                                "height": 1000,
+                                "width": 750,
+                                "focus_rects": []
+                            },
+                            "id": "1910632074186547202"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910273165386813824",
+                "screen_name": "engrICO2015",
+                "bookmarks": 76,
+                "favorites": 856,
+                "created_at": "Thu Apr 10 10:06:28 +0000 2025",
+                "text": "Truth 💯 https://t.co/laqaNYUs9o",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "quotes": 13,
+                "replies": 43,
+                "conversation_id": "1910273165386813824",
+                "retweets": 445,
+                "views": "7792",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/laqaNYUs9o",
+                            "expanded_url": "https://x.com/engrICO2015/status/1910273165386813824/video/1",
+                            "id_str": "1910272796640382976",
+                            "indices": [
+                                8,
+                                31
+                            ],
+                            "media_key": "7_1910272796640382976",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1910272796640382976/pu/img/0Dg3KFeT86YSg1qO.jpg",
+                            "type": "video",
+                            "url": "https://t.co/laqaNYUs9o",
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1024,
+                                    "w": 576,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1024,
+                                    "w": 576,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 383,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1024,
+                                "width": 576,
+                                "focus_rects": []
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 114728,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/pl/6zHuyzB05Sw5jMDa.m3u8?tag=12&v=0d0"
+                                    },
+                                    {
+                                        "bitrate": 632000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/vid/avc1/320x568/NnPAw4C348Vs3UwG.mp4?tag=12"
+                                    },
+                                    {
+                                        "bitrate": 950000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/vid/avc1/480x852/wLh_D76-AC3ipdC1.mp4?tag=12"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/vid/avc1/576x1024/JLORvj3p50TQC1-Y.mp4?tag=12"
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "7_1910272796640382976"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "engrICO2015",
+                    "name": "AFRICAMUSTBEFREE!!!!!!!",
+                    "description": "MECH. ENGR ! PRODUCTION OPTION . .. EXCELLENT WRITER... LOVER OF FREEDOM N FREEDOM ACTIVIST !!\n\nQUALIFICATIONS ! ND, HND, B/eng ,Msc ( Engr) plus B/Ed MATHS",
+                    "rest_id": "1249820219427696641",
+                    "followers_count": 10749,
+                    "favourites_count": 8066,
+                    "avatar": "https://pbs.twimg.com/profile_images/1888696540383846400/cCcpOVm__normal.jpg",
+                    "verified": false,
+                    "friends_count": 2180,
+                    "location": ""
+                },
+                "media": {
+                    "video": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1910272796640382976/pu/img/0Dg3KFeT86YSg1qO.jpg",
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/pl/6zHuyzB05Sw5jMDa.m3u8?tag=12&v=0d0"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/vid/avc1/320x568/NnPAw4C348Vs3UwG.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/vid/avc1/480x852/wLh_D76-AC3ipdC1.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1910272796640382976/pu/vid/avc1/576x1024/JLORvj3p50TQC1-Y.mp4?tag=12"
+                                }
+                            ],
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration": 114728,
+                            "original_info": {
+                                "height": 1024,
+                                "width": 576,
+                                "focus_rects": []
+                            },
+                            "id": "1910272796640382976"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910979568103567395",
+                "screen_name": "icospeaks",
+                "bookmarks": 0,
+                "favorites": 5,
+                "created_at": "Sat Apr 12 08:53:27 +0000 2025",
+                "text": "I used to store my crypto like the 99% - without thinking twice. But these 2 contrarian wallet approaches changed how I protect my assets (and helped me sleep at night when markets go wild): \n \n🦊#MetaMask: The DeFi gateway with 30M+ users that revolutionized how we interact with dApps https://t.co/TusiWZfrwS\n \n🛡#TrustWallet: Binance's non-custodial solution supporting 100+ blockchains \n https://t.co/qFww7pOP63\n\nRemember, hot wallets are convenient but less secure than cold storage. \n \nJoin our 🪙 Telegram #community to discuss wallet security with 1M+ #crypto enthusiasts! https://t.co/I1yMvznIk5",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 0,
+                "replies": 4,
+                "conversation_id": "1910979568103567395",
+                "retweets": 4,
+                "views": "118",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                195,
+                                204
+                            ],
+                            "text": "MetaMask"
+                        },
+                        {
+                            "indices": [
+                                313,
+                                325
+                            ],
+                            "text": "TrustWallet"
+                        },
+                        {
+                            "indices": [
+                                510,
+                                520
+                            ],
+                            "text": "community"
+                        },
+                        {
+                            "indices": [
+                                557,
+                                564
+                            ],
+                            "text": "crypto"
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [
+                        {
+                            "display_url": "cutt.ly/nrfjvRPg",
+                            "expanded_url": "https://cutt.ly/nrfjvRPg",
+                            "url": "https://t.co/TusiWZfrwS",
+                            "indices": [
+                                286,
+                                309
+                            ]
+                        },
+                        {
+                            "display_url": "cutt.ly/Wrfjv7xT",
+                            "expanded_url": "https://cutt.ly/Wrfjv7xT",
+                            "url": "https://t.co/qFww7pOP63",
+                            "indices": [
+                                390,
+                                413
+                            ]
+                        },
+                        {
+                            "display_url": "cutt.ly/CrfjcXoD",
+                            "expanded_url": "https://cutt.ly/CrfjcXoD",
+                            "url": "https://t.co/I1yMvznIk5",
+                            "indices": [
+                                578,
+                                601
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "icospeaks",
+                    "name": "ICO SPEAKS",
+                    "description": "#ICOspeaks connect people via Social Media and Private Networking meetups. #BTC #AMA #Crypto",
+                    "rest_id": "801422991322136576",
+                    "followers_count": 5758,
+                    "favourites_count": 1194,
+                    "avatar": "https://pbs.twimg.com/profile_images/1332003327270408193/D37NPMRc_normal.jpg",
+                    "verified": false,
+                    "friends_count": 10,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoUpyMBWkAAOKMA.jpg",
+                            "id": "1910979559085740032",
+                            "sizes": {
+                                "h": 998,
+                                "w": 1200
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1908697372496126395",
+                "screen_name": "ico_ovo",
+                "bookmarks": 1513,
+                "favorites": 9185,
+                "created_at": "Sun Apr 06 01:44:50 +0000 2025",
+                "text": "＜𝐄𝐧𝐝 𝐨𝐟 𝐭𝐡𝐞 𝐄𝐭𝐞𝐫𝐧𝐚𝐥 𝐒𝐮𝐦𝐦𝐞𝐫＞\n　ー full-colored illustration artbook\n\n　Preorder now!↓\n　https://t.co/Mrk83eJcti\n\n💙 [ giveaway ] How to enter:\n-Like &amp; RT (no QRT)\n2 winner, Price: EOTES art book\n\n#カヲシン #Evangelion https://t.co/IM2ayo1KhC",
+                "lang": "en",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 18,
+                "replies": 10,
+                "conversation_id": "1908697372496126395",
+                "retweets": 1420,
+                "views": "198858",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                194,
+                                199
+                            ],
+                            "text": "カヲシン"
+                        },
+                        {
+                            "indices": [
+                                200,
+                                211
+                            ],
+                            "text": "Evangelion"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/IM2ayo1KhC",
+                            "expanded_url": "https://x.com/ico_ovo/status/1908697372496126395/photo/1",
+                            "id_str": "1908697065179537411",
+                            "indices": [
+                                212,
+                                235
+                            ],
+                            "media_key": "3_1908697065179537411",
+                            "media_url_https": "https://pbs.twimg.com/media/Gn0N3jnbYAMr7u2.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/IM2ayo1KhC",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1449,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 994,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 563,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1449,
+                                "width": 1200,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 777,
+                                        "w": 1200,
+                                        "h": 672
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 249,
+                                        "w": 1200,
+                                        "h": 1200
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 81,
+                                        "w": 1200,
+                                        "h": 1368
+                                    },
+                                    {
+                                        "x": 475,
+                                        "y": 0,
+                                        "w": 725,
+                                        "h": 1449
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1200,
+                                        "h": 1449
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1908697065179537411"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [
+                        {
+                            "display_url": "shop.kan.io/category/art-b…",
+                            "expanded_url": "https://shop.kan.io/category/art-by-ico",
+                            "url": "https://t.co/Mrk83eJcti",
+                            "indices": [
+                                83,
+                                106
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "ico_ovo",
+                    "name": "🐿️イコ @ C2E2 S19",
+                    "description": "Storyboard, background, illustration artist | Insta @ ico_ovo | ペルソナ、エヴァ、ゼルダ | store: https://t.co/WsFpaYUWAF| J.deng.work@gmail.com",
+                    "rest_id": "3016724230",
+                    "followers_count": 33354,
+                    "favourites_count": 32654,
+                    "avatar": "https://pbs.twimg.com/profile_images/1899649950465830912/GJMeC6tQ_normal.jpg",
+                    "verified": false,
+                    "friends_count": 398,
+                    "location": "Seattle, WA"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/Gn0N3jnbYAMr7u2.jpg",
+                            "id": "1908697065179537411",
+                            "sizes": {
+                                "h": 1200,
+                                "w": 994
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910923332016308324",
+                "screen_name": "engrICO2015",
+                "bookmarks": 12,
+                "favorites": 224,
+                "created_at": "Sat Apr 12 05:10:00 +0000 2025",
+                "text": "Who killed this girl after she bombed the hell out of Boko Haram ? \n\n??????\n\nRIP https://t.co/lRknhFT7iy",
+                "lang": "en",
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "quotes": 6,
+                "replies": 21,
+                "conversation_id": "1910923332016308324",
+                "retweets": 110,
+                "views": "9272",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/lRknhFT7iy",
+                            "expanded_url": "https://x.com/engrICO2015/status/1910923332016308324/photo/1",
+                            "id_str": "1910923314408591360",
+                            "indices": [
+                                81,
+                                104
+                            ],
+                            "media_key": "3_1910923314408591360",
+                            "media_url_https": "https://pbs.twimg.com/media/GoT2oURWEAApw6v.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/lRknhFT7iy",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 320,
+                                            "y": 126,
+                                            "h": 34,
+                                            "w": 34
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 320,
+                                            "y": 126,
+                                            "h": 34,
+                                            "w": 34
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 320,
+                                            "y": 126,
+                                            "h": 34,
+                                            "w": 34
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 320,
+                                            "y": 126,
+                                            "h": 34,
+                                            "w": 34
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 451,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 451,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 451,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 451,
+                                "width": 680,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 680,
+                                        "h": 381
+                                    },
+                                    {
+                                        "x": 132,
+                                        "y": 0,
+                                        "w": 451,
+                                        "h": 451
+                                    },
+                                    {
+                                        "x": 159,
+                                        "y": 0,
+                                        "w": 396,
+                                        "h": 451
+                                    },
+                                    {
+                                        "x": 244,
+                                        "y": 0,
+                                        "w": 226,
+                                        "h": 451
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 680,
+                                        "h": 451
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1910923314408591360"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "engrICO2015",
+                    "name": "AFRICAMUSTBEFREE!!!!!!!",
+                    "description": "MECH. ENGR ! PRODUCTION OPTION . .. EXCELLENT WRITER... LOVER OF FREEDOM N FREEDOM ACTIVIST !!\n\nQUALIFICATIONS ! ND, HND, B/eng ,Msc ( Engr) plus B/Ed MATHS",
+                    "rest_id": "1249820219427696641",
+                    "followers_count": 10749,
+                    "favourites_count": 8066,
+                    "avatar": "https://pbs.twimg.com/profile_images/1888696540383846400/cCcpOVm__normal.jpg",
+                    "verified": false,
+                    "friends_count": 2180,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoT2oURWEAApw6v.jpg",
+                            "id": "1910923314408591360",
+                            "sizes": {
+                                "h": 451,
+                                "w": 680
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1909279331701985679",
+                "screen_name": "top7ico",
+                "bookmarks": 5,
+                "favorites": 30,
+                "created_at": "Mon Apr 07 16:17:20 +0000 2025",
+                "text": "Top @binance Alpha Projects to Watch\n\n$ONDO $GRASS #VIRTUAL $PLUME $AERO $ATH $MEW $DRIFT $AIXBT $ALCH\n\n🔗 @CryptoRank_io https://t.co/Ngqwe1FWRL",
+                "lang": "en",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 0,
+                "replies": 5,
+                "conversation_id": "1909279331701985679",
+                "retweets": 0,
+                "views": "4913",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                51,
+                                59
+                            ],
+                            "text": "VIRTUAL"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/Ngqwe1FWRL",
+                            "expanded_url": "https://x.com/top7ico/status/1909279331701985679/photo/1",
+                            "id_str": "1909278208723197958",
+                            "indices": [
+                                121,
+                                144
+                            ],
+                            "media_key": "3_1909278208723197958",
+                            "media_url_https": "https://pbs.twimg.com/media/Gn8eakBXIAY8c3y.png",
+                            "type": "photo",
+                            "url": "https://t.co/Ngqwe1FWRL",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1368671059906469889",
+                                            "name": "Ondo Finance",
+                                            "screen_name": "OndoFinance",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1638214841088221184",
+                                            "name": "Grass",
+                                            "screen_name": "getgrass_io",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1438365197505232902",
+                                            "name": "Virtuals Protocol",
+                                            "screen_name": "virtuals_io",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1711819315312480257",
+                                            "name": "Plume",
+                                            "screen_name": "plumenetwork",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1640369409649782785",
+                                            "name": "Aerodrome",
+                                            "screen_name": "AerodromeFi",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1531588175000268800",
+                                            "name": "Aethir",
+                                            "screen_name": "AethirCloud",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1395713029593989121",
+                                            "name": "Drift",
+                                            "screen_name": "DriftProtocol",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1852674305517342720",
+                                            "name": "aixbt",
+                                            "screen_name": "aixbt_agent",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1856670796464488449",
+                                            "name": "ALCHEMIST AI 🔮",
+                                            "screen_name": "alchemistAIapp",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "877807935493033984",
+                                            "name": "Binance",
+                                            "screen_name": "binance",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1302,
+                                    "w": 1920,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 814,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 461,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1302,
+                                "width": 1920,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1920,
+                                        "h": 1075
+                                    },
+                                    {
+                                        "x": 309,
+                                        "y": 0,
+                                        "w": 1302,
+                                        "h": 1302
+                                    },
+                                    {
+                                        "x": 389,
+                                        "y": 0,
+                                        "w": 1142,
+                                        "h": 1302
+                                    },
+                                    {
+                                        "x": 635,
+                                        "y": 0,
+                                        "w": 651,
+                                        "h": 1302
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1920,
+                                        "h": 1302
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1909278208723197958"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [
+                        {
+                            "indices": [
+                                38,
+                                43
+                            ],
+                            "text": "ONDO"
+                        },
+                        {
+                            "indices": [
+                                44,
+                                50
+                            ],
+                            "text": "GRASS"
+                        },
+                        {
+                            "indices": [
+                                60,
+                                66
+                            ],
+                            "text": "PLUME"
+                        },
+                        {
+                            "indices": [
+                                67,
+                                72
+                            ],
+                            "text": "AERO"
+                        },
+                        {
+                            "indices": [
+                                73,
+                                77
+                            ],
+                            "text": "ATH"
+                        },
+                        {
+                            "indices": [
+                                78,
+                                82
+                            ],
+                            "text": "MEW"
+                        },
+                        {
+                            "indices": [
+                                83,
+                                89
+                            ],
+                            "text": "DRIFT"
+                        },
+                        {
+                            "indices": [
+                                90,
+                                96
+                            ],
+                            "text": "AIXBT"
+                        },
+                        {
+                            "indices": [
+                                97,
+                                102
+                            ],
+                            "text": "ALCH"
+                        }
+                    ],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "877807935493033984",
+                            "name": "Binance",
+                            "screen_name": "binance",
+                            "indices": [
+                                4,
+                                12
+                            ]
+                        },
+                        {
+                            "id_str": "1057984132930789378",
+                            "name": "CryptoRank.io",
+                            "screen_name": "CryptoRank_io",
+                            "indices": [
+                                106,
+                                120
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "top7ico",
+                    "name": "TOP 7 ICO | Crypto News & Analytics",
+                    "description": "Your Hub for Top #CryptoNews, #DeFi, #MEME, #AI, #RWA, #GameFi Trends & Analytics\n\nProudly rooted in Ukraine 🇺🇦\n\n📩 Contact: https://t.co/NJVYGHjFBN",
+                    "rest_id": "945716524836409345",
+                    "followers_count": 145118,
+                    "favourites_count": 3941,
+                    "avatar": "https://pbs.twimg.com/profile_images/1882390850925113345/0kZTE7qD_normal.jpg",
+                    "verified": false,
+                    "friends_count": 1539,
+                    "location": "TOP 7 ICO Socials ▶️"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/Gn8eakBXIAY8c3y.png",
+                            "id": "1909278208723197958",
+                            "sizes": {
+                                "h": 814,
+                                "w": 1200
+                            }
+                        }
+                    ]
+                },
+                "place": {
+                    "country": "United States",
+                    "country_code": "US",
+                    "name": "Washington",
+                    "full_name": "Washington, DC",
+                    "place_type": "city",
+                    "more_data_url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1908816639010685277",
+                "screen_name": "icobicoo",
+                "bookmarks": 54,
+                "favorites": 327,
+                "created_at": "Sun Apr 06 09:38:45 +0000 2025",
+                "text": "Bu gece İstanbul’u aşka boğasım var ✨\n\n#MinMer https://t.co/3vFIrjcFIZ",
+                "lang": "tr",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 2,
+                "replies": 1,
+                "conversation_id": "1908816639010685277",
+                "retweets": 16,
+                "views": "7063",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                39,
+                                46
+                            ],
+                            "text": "MinMer"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/3vFIrjcFIZ",
+                            "expanded_url": "https://x.com/icobicoo/status/1908816639010685277/video/1",
+                            "id_str": "1908816436648132608",
+                            "indices": [
+                                47,
+                                70
+                            ],
+                            "media_key": "13_1908816436648132608",
+                            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1908816436648132608/img/3E-r5uMoxb-YjJPC.jpg",
+                            "type": "video",
+                            "url": "https://t.co/3vFIrjcFIZ",
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 720,
+                                    "w": 736,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 720,
+                                    "w": 736,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 665,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 720,
+                                "width": 736,
+                                "focus_rects": []
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    46,
+                                    45
+                                ],
+                                "duration_millis": 17698,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1908816436648132608/pl/vsjQWd3PyggjDWhF.m3u8?tag=14&v=214"
+                                    },
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1908816436648132608/vid/avc1/276x270/xXtCPLE7A4FQFuVe.mp4?tag=14"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1908816436648132608/vid/avc1/368x360/9tKeGvmlJc83UwkM.mp4?tag=14"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1908816436648132608/vid/avc1/736x720/DsgIk-5-nmC83BJv.mp4?tag=14"
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "13_1908816436648132608"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "icobicoo",
+                    "name": "İco 🕺🏻",
+                    "description": "“Seni senden alsalar, bendeki seni alamazlar”",
+                    "rest_id": "1865685501262573568",
+                    "followers_count": 218,
+                    "favourites_count": 13077,
+                    "avatar": "https://pbs.twimg.com/profile_images/1896274934780878848/DJ5pPSNJ_normal.jpg",
+                    "verified": false,
+                    "friends_count": 279,
+                    "location": "CünZey"
+                },
+                "media": {
+                    "video": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1908816436648132608/img/3E-r5uMoxb-YjJPC.jpg",
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1908816436648132608/pl/vsjQWd3PyggjDWhF.m3u8?tag=14&v=214"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1908816436648132608/vid/avc1/276x270/xXtCPLE7A4FQFuVe.mp4?tag=14"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1908816436648132608/vid/avc1/368x360/9tKeGvmlJc83UwkM.mp4?tag=14"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1908816436648132608/vid/avc1/736x720/DsgIk-5-nmC83BJv.mp4?tag=14"
+                                }
+                            ],
+                            "aspect_ratio": [
+                                46,
+                                45
+                            ],
+                            "duration": 17698,
+                            "original_info": {
+                                "height": 720,
+                                "width": 736,
+                                "focus_rects": []
+                            },
+                            "id": "1908816436648132608"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1910304376117150059",
+                "screen_name": "top7ico",
+                "bookmarks": 7,
+                "favorites": 27,
+                "created_at": "Thu Apr 10 12:10:29 +0000 2025",
+                "text": "Monad User Activity Overview on #Testnet\n\n@monad_xyz demonstrates impressive user engagement on its testnet, recording over 766M total transactions and 126M active wallets. Most wallets have a low transaction count and balance, indicating a broad base of early participants — a key metric often considered for potential airdrop allocations.\n\nData source 🔗@layerhub",
+                "lang": "en",
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "quotes": 4,
+                "replies": 3,
+                "conversation_id": "1910304376117150059",
+                "retweets": 9,
+                "views": "8083",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                32,
+                                40
+                            ],
+                            "text": "Testnet"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1342961741718810632",
+                            "name": "Monad ⨀",
+                            "screen_name": "monad_xyz",
+                            "indices": [
+                                42,
+                                52
+                            ]
+                        },
+                        {
+                            "id_str": "1699814145414033408",
+                            "name": "LayerHub",
+                            "screen_name": "layerhub",
+                            "indices": [
+                                355,
+                                364
+                            ]
+                        }
+                    ]
+                },
+                "user_info": {
+                    "screen_name": "top7ico",
+                    "name": "TOP 7 ICO | Crypto News & Analytics",
+                    "description": "Your Hub for Top #CryptoNews, #DeFi, #MEME, #AI, #RWA, #GameFi Trends & Analytics\n\nProudly rooted in Ukraine 🇺🇦\n\n📩 Contact: https://t.co/NJVYGHjFBN",
+                    "rest_id": "945716524836409345",
+                    "followers_count": 145118,
+                    "favourites_count": 3941,
+                    "avatar": "https://pbs.twimg.com/profile_images/1882390850925113345/0kZTE7qD_normal.jpg",
+                    "verified": false,
+                    "friends_count": 1539,
+                    "location": "TOP 7 ICO Socials ▶️"
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoLDa1pWEAAx-8w.png",
+                            "id": "1910304057803018240",
+                            "sizes": {
+                                "h": 817,
+                                "w": 1200
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "tweet",
+                "tweet_id": "1911350077211418770",
+                "screen_name": "8IcoEitHGybnh5V",
+                "bookmarks": 14,
+                "favorites": 1250,
+                "created_at": "Sun Apr 13 09:25:44 +0000 2025",
+                "text": "好き〜？♡♡♡ https://t.co/jq14PGmsAK",
+                "lang": "ja",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "quotes": 89,
+                "replies": 208,
+                "conversation_id": "1911350077211418770",
+                "retweets": 299,
+                "views": "18429",
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/jq14PGmsAK",
+                            "expanded_url": "https://x.com/8IcoEitHGybnh5V/status/1911350077211418770/photo/1",
+                            "id_str": "1911350064884178944",
+                            "indices": [
+                                8,
+                                31
+                            ],
+                            "media_key": "3_1911350064884178944",
+                            "media_url_https": "https://pbs.twimg.com/media/GoZ6wdrXYAAhohL.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/jq14PGmsAK",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 1152,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 383,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 2048,
+                                "width": 1152,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 548,
+                                        "w": 1152,
+                                        "h": 645
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 294,
+                                        "w": 1152,
+                                        "h": 1152
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 214,
+                                        "w": 1152,
+                                        "h": 1313
+                                    },
+                                    {
+                                        "x": 51,
+                                        "y": 0,
+                                        "w": 1024,
+                                        "h": 2048
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1152,
+                                        "h": 2048
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1911350064884178944"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "user_info": {
+                    "screen_name": "8IcoEitHGybnh5V",
+                    "name": "ポケカメン@サブ垢",
+                    "description": "ポケカメンのサブ垢です！！主にツイキャスとYoutubeで活動してます！ ！DMなどは本垢の方が気付きやすいです！！！本垢→＠GC5R5OGIKgV0yvz秘密の垢→ @P42757900 プレゼントは〒106-0031 東京都港区西麻布2-13-12 早野ビル604 株式会社ライバーポケカメン宛にお願いします！",
+                    "rest_id": "4697437632",
+                    "followers_count": 121817,
+                    "favourites_count": 123378,
+                    "avatar": "https://pbs.twimg.com/profile_images/1876996374128107521/Ni5fmThV_normal.jpg",
+                    "verified": false,
+                    "friends_count": 473,
+                    "location": ""
+                },
+                "media": {
+                    "photo": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/media/GoZ6wdrXYAAhohL.jpg",
+                            "id": "1911350064884178944",
+                            "sizes": {
+                                "h": 1200,
+                                "w": 675
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "next_cursor": "DAACCgACGoaUF3gAJxAKAAMahpQXd__Y8AgABAAAAAILAAUAAADoRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJNYWZ4OXZ0eGVSanhxQ3c3VjNWa0ZyR29UMnBWM1dnR1FhZyszTXBWcng2QnA5ZXA2dGxrRmRHbjllbTlwYWdDTWFobnJFdVpvZ2tocUJnb2ZrMXlBOUdvVXB5dG5Yc0NNYWhuYjJRUm93VWhwOURpWEhXbUc3R29XU2U2dVhzUm9hZnVSa2sxZFFXUnFGaTRjTmxoRnRHb0t6bFpzWDBTZ2FncWRTcHRlUmdCcUVWM2tTVjdBUkdvV0hyVS9iRVJBYWduOWZxeHVSMUE9PQgABgAAAAAIAAcAAAAADAAICgABGn0OJcdaYbsAAAA",
+        "prev_cursor": "DAACCgACGoaUF3gAJxAKAAMahpQXd__Y8AgABAAAAAELAAUAAADoRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJNYWZ4OXZ0eGVSanhxQ3c3VjNWa0ZyR29UMnBWM1dnR1FhZyszTXBWcng2QnA5ZXA2dGxrRmRHbjllbTlwYWdDTWFobnJFdVpvZ2tocUJnb2ZrMXlBOUdvVXB5dG5Yc0NNYWhuYjJRUm93VWhwOURpWEhXbUc3R29XU2U2dVhzUm9hZnVSa2sxZFFXUnFGaTRjTmxoRnRHb0t6bFpzWDBTZ2FncWRTcHRlUmdCcUVWM2tTVjdBUkdvV0hyVS9iRVJBYWduOWZxeHVSMUE9PQgABgAAAAAIAAcAAAAADAAICgABGn0OJcdaYbsAAAA"
+    }
