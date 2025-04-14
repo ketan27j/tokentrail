@@ -105,6 +105,7 @@ router.post("/analyze-pending-tweets", async (req, res) => {
         });
         console.log('Pending Tweets:', pendingTweets);
         for (const tweet of pendingTweets) {
+            console.log("tweet", tweet.text);
             await analyzeTweet(tweet.id, tweet.text);
             console.log(`Analyzed tweet: ${tweet.tweet_id}`);
             // Add a delay of 10 seconds before the next iteration
@@ -146,7 +147,7 @@ async function analyzeTweet(tweetId: number,tweetText: string): Promise<any> {
         const tokenDetails = await llmService.analyzeTweet(tweetText);
         let isPresale = false;
         console.log('Token Details:', tokenDetails);
-        if (tokenDetails.tokenTicker) {
+        if (tokenDetails.tokenTicker && tokenDetails.projectName) {
             isPresale = true;
             await prisma.tokenDetail.upsert({
                 where: { tokenTicker: tokenDetails.tokenTicker }, // Assuming tokenDetails contains a 'tokenTicker' field

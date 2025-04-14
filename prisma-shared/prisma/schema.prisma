@@ -33,10 +33,10 @@ model TokenDetail {
   startDate      DateTime?
   endDate        DateTime?
   purpose        String?
-  amountRaised   Decimal?
+  amountRaised   String?
   teamInfo       String?
   tokenAddress   String?
-  price          Decimal?
+  price          String?
   twitterHandle  String?
   website        String?
   createdAt      DateTime     @default(now())
