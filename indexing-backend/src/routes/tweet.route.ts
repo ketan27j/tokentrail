@@ -5,6 +5,7 @@ import axios from 'axios';
 import { Tweet } from 'prisma-shared';
 import fs from 'fs';
 import path from 'path';
+import { LlmService } from '../service/llmService';
 
 dotenv.config();
 const prisma = new PrismaClient();
@@ -43,7 +44,7 @@ router.post("/search-tweet", async (req, res) => {
                 'x-rapidapi-host': 'twitter-api45.p.rapidapi.com'
             }
         });
-        console.log('Response:', response.data);
+        // console.log('Response:', response.data);
         const twitterData = response.data;
         // const rawData = fs.readFileSync(path.resolve('../tweets.json'), 'utf8');
         // const twitterData = JSON.parse(rawData);
@@ -72,8 +73,10 @@ router.post("/search-tweet", async (req, res) => {
                   quotes: tweet.quotes,
                   replies: tweet.replies,
                   retweets: tweet.retweets,
+                  keyword: searchString
                 }
             });
+            console.log(`Imported tweet: ${tweet.tweet_id}`);
             // Store the cursor for future pagination
             await prisma.cursor.upsert({
                 where: { id: 1 },
@@ -92,5 +95,82 @@ router.post("/search-tweet", async (req, res) => {
         });
     }
 });
+
+router.post("/analyze-pending-tweets", async (req, res) => {
+    try {
+        const pendingTweets = await prisma.tweet.findMany({
+            where: {
+                isAnalyzed: false,
+            }
+        });
+        console.log('Pending Tweets:', pendingTweets);
+        for (const tweet of pendingTweets) {
+            await analyzeTweet(tweet.id, tweet.text);
+            console.log(`Analyzed tweet: ${tweet.tweet_id}`);
+            // Add a delay of 10 seconds before the next iteration
+            await new Promise(resolve => setTimeout(resolve, 10000));
+        }
+        res.status(200).json({
+            message: "Pending tweets retrieved successfully",
+            pendingTweets: pendingTweets,
+        });
+    } catch (error) {
+        console.error('Error in /anlyze-pending-tweets:', error);
+        res.status(500).json({
+            message: "Internal server error",
+            error: error instanceof Error ? error.message : String(error),
+        });
+    }
+});
+
+router.post("/analyze-tweet", async (req, res) => {
+    try {
+        const { tweetId, tweetText } = req.body;
+        
+        await analyzeTweet(tweetId, tweetText);
+        res.status(200).json({
+            message: "Tweet analyzed successfully",
+        });
+    } catch (error) {
+        console.error('Error in /analyze-tweet:', error);
+        res.status(500).json({
+            message: "Internal server error",
+            error: error instanceof Error ? error.message : String(error),
+        });
+    }
+});
+
+async function analyzeTweet(tweetId: number,tweetText: string): Promise<any> {
+    try{
+        const llmService = new LlmService();
+        const tokenDetails = await llmService.analyzeTweet(tweetText);
+        let isPresale = false;
+        console.log('Token Details:', tokenDetails);
+        if (tokenDetails.tokenTicker) {
+            isPresale = true;
+            await prisma.tokenDetail.upsert({
+                where: { tokenTicker: tokenDetails.tokenTicker }, // Assuming tokenDetails contains a 'tokenTicker' field
+                update: {
+                ...tokenDetails,
+                },
+                create: {
+                ...tokenDetails,
+                },
+            });
+        } 
+        console.log('tweetId:', tweetId);
+        await prisma.tweet.update({
+            where: { id: tweetId },
+            data: {
+                isAnalyzed: true,
+                isPresale: isPresale,
+                updatedAt: new Date()
+            }
+        });
+    } catch (error) {
+        console.error('Error analyzing tweet:', error);
+        throw error;
+    }   
+}
 
 export default router;

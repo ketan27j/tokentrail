@@ -28,15 +28,17 @@ model User {
 model TokenDetail {
   id             Int          @id @default(autoincrement())
   projectName    String
-  tokenTicker    String
+  tokenTicker    String       @unique
   walletAddress  String?
   startDate      DateTime?
   endDate        DateTime?
   purpose        String?
-  amountRaised   Decimal      @default(0)
+  amountRaised   Decimal?
   teamInfo       String?
   tokenAddress   String?
   price          Decimal?
+  twitterHandle  String?
+  website        String?
   createdAt      DateTime     @default(now())
 }
 
@@ -53,8 +55,11 @@ model Tweet {
   quotes     Int
   replies    Int
   retweets   Int
+  keyword    String   @default("")
   userId     Int      
   user       User     @relation(fields: [userId], references: [id])
+  isAnalyzed Boolean  @default(false)
+  isPresale  Boolean  @default(false)
   createdAt  DateTime @default(now())
   updatedAt  DateTime @updatedAt
 }
